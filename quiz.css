@@ -1,8 +1,6 @@
 body
 {
-    text-align: center;
     background: cornflowerblue;
-    padding: 10px;
 }
 #output
 {
@@ -20,4 +18,9 @@ width: 500px;
 #player2_name_input
 {
 width: 500px;
+}
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 20px;
 }
